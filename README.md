@@ -22,3 +22,6 @@ uv sync # 如果没有安装uv，参考https://docs.astral.sh/uv/getting-started
 source .venv/bin/activate
 langgraph dev
 ```
+![](docs/demo.gif)
+![](docs/demo2.gif)
+
