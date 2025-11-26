@@ -1,4 +1,7 @@
 # langchain_chatbot
+这个GitHub仓库是[学习视频](https://www.bilibili.com/video/BV1uV1yBHE2o/?spm_id_from=333.788.videopod.episodes&vd_source=5985951fd0bd9848a10e8855a46f1d56)的复现，
+
+笔记在：https://siwrc302o4r.feishu.cn/wiki/Kda8wNjttion29kRw1wcHJZLnnV?fromScene=spaceOverview#share-P1tbdDp9joO8SBxUaAjcxMUvnnb
 ## 环境配置
 ### 1. 注册langsmith&获取 api key
 ![](docs/gen_langsmithapikey.gif)
