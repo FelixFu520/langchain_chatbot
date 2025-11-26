@@ -7,9 +7,13 @@
 https://app.tavily.com/home
 ### 3. 注册火山引擎豆包大模型&获取api key
 https://console.volcengine.com/ark
-### 4. 完整的.env如下
+### 4. 注册OpenWeather&获取api key
+https://openweathermap.org/api/
+
+这个demo没用到查询天气工具，所以可以忽略这个api
+### 5. 完整的.env如下
 ![](docs/env.png)
-### 5. 安装环境
+### 6. 安装环境
 ```
 git clone https://github.com/FelixFu520/langchain_chatbot.git
 cd langchain_chatbot
